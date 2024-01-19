@@ -89,7 +89,7 @@ section {
     position: relative;
     height: 100vh;
     width: 100%;
-    background-image: url(/img/g2.jpg);
+    background-image: url(img/g2.jpg);
     object-fit: contain;
     background-size: cover;
     background-position: center;
